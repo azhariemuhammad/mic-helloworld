@@ -1,2 +1,2 @@
-# mic-helloworld
-mic-helloworld
+# Markoding Innovation Challange
+Let's learn to code!
